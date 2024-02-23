@@ -1,3 +1,4 @@
 Today's class starts by 8:00pm, Nigerian time.
 Please, try and join promptly
 Let's make the class very interactive, please
+Merging our branches to the master branch
